@@ -52,6 +52,7 @@ export default class Details extends Component {
                     <Link to="/">
                       <ButtonContainer>back to product</ButtonContainer>
                     </Link>
+                    &nbsp;
                     <ButtonContainer
                       cart
                       disabled={inCart ? true : false}
