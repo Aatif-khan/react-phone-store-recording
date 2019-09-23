@@ -57,7 +57,7 @@ export default class MyApp extends React.Component {
 }
 
 // sb-gpvtv221832@personal.example.com
-// YwrP<p5T
+//
 
 // sb-lrmdu224764@business.example.com
 // 2F^UMun#
